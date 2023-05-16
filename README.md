@@ -1,4 +1,4 @@
-# Song-Writer-AI
+# Song Writer AI
 Write lyriced songs using AI via LLMs like GPT-3.5-Turbo and Vicuna-13b.
 
 Language Models supported:
