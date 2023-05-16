@@ -17,7 +17,7 @@ Built with [Delphi](https://www.embarcadero.com/products/delphi/) using the Fire
 It features a REST integration with Replicate.com and OpenAI.com within the client. You need to sign up for an API key each service to access th functionality.
 
 # Song Writer AI Desktop client Screeshot on Windows
-![Song Writer AI Desktop client on Windows](/screenshot.jpg)
+![Song Writer AI Desktop client on Windows](/screenshot.png)
 
 Other Delphi AI clients:
 
